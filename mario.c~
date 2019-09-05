@@ -10,7 +10,7 @@ int main(void)
     
     do
     {
-        printf("How high you want this? ");
+        printf("How high you want this bitch? ");
         height = GetInt();
     }
     while ((height >= 24) || (height < 0));
